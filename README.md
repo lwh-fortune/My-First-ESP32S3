@@ -35,10 +35,11 @@
 
 >[PCB 正面渲染图](./GP_26.5.11_IR_v0.7/Hardware/Previews/PCB-1.png)
 >[PCB 背面路由图](./GP_26.5.11_IR_v0.7/Hardware/Previews/PCB-2.png)
+>[PCB 3D渲染图](./GP_26.5.11_IR_v0.7/Hardware/Previews/3D-PCB.png)
 
 
 ## 🚀 快速上手
 1. 克隆本项目：`git clone ...`
 2. 使用 VS Code + PlatformIO 打开。
-3. 修改 `src/config.h` 中的 WiFi 与 OneNET MQTT 凭证。
+3. 修改 `src` 中的 WiFi 与 OneNET MQTT 凭证。
 4. 点击 Upload 烧录至 ESP32-S3。
