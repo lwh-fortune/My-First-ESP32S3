@@ -1,4 +1,4 @@
-# My-First-ESP32S3-
+# My-First-ESP32S3
 
 # 基于 ESP32-S3 的离线语音控制智能家居中枢系统 🚀
 
